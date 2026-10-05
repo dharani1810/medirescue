@@ -1,0 +1,9 @@
+{
+  "name": "EPIS - Emergency Patient Information System",
+  "description": "High-contrast clinical emergency response portal with automated SOS dispatch dial-up, real-time GPS broadcast, digital health intake, automated ESI triage scoring, and HIPAA-compliant clinician workflows.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
